@@ -1,22 +1,28 @@
-Welcome to Lumache's documentation!
+88clb - 88clb.cool - Nhà cái cá cược trực tuyến uy tín nhất hiện nay.
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`88clb <https://88clb.cool/>`_ nhà cái cá cược trực tuyến uy tín nhất hiện nay. 88clb được đánh giá cao với giao diện đơn giản, tính năng đa dạng, bảo mật an toàn và dịch vụ hỗ trợ khách hàng chuyên nghiệp. Đăng ký ngay nhà cái 88clb.cool để nhận ưu đãi. #88clb #casino_88clb #nha_cai_88clb #88clbcool
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Website: https://88clb.cool/
 
-   This project is under active development.
+Email: 88clbcool@gmail.com
 
-Contents
---------
+Hotline: 0909665678
 
-.. toctree::
+Địa chỉ: 31-29 Ngõ 10 Đường Bát Khối, Bát Tràng, Gia Lâm, Hà Nội
 
-   usage
-   api
+https://www.facebook.com/88clbcool/ 
+
+https://www.linkedin.com/in/88clbcool/ 
+
+https://www.pinterest.com/88clbcool/ 
+
+https://twitter.com/88clbcool 
+
+https://88clbcool.tumblr.com/ 
+
+https://www.instagram.com/88clbcool/ 
+
+https://www.youtube.com/@88clbcool
